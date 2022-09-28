@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quest Assignment</string>
+    <string name="please_enter_user_id">Please enter user id</string>
+    <string name="fetch_user_details">Fetch User Details</string>
+</resources>
